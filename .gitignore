@@ -1,2 +1,4 @@
+# Files which need to be ignored come here(as they may have some confidential info.
+# Always create .gitignore file or it should be creted before staging if one needs some files to be ignored)
 ./Python/__pycache__
 ./Python/.vscode
